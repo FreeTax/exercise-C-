@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/ex2/Data.h
+iostream
+-
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/ex2/main.cpp
+iostream
+-
+Data.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/ex2/Data.h
+
