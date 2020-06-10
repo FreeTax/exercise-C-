@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/BaseClass.cpp
+BaseClass.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/BaseClass.h
+iostream
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/iostream
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/BaseClass.h
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/Derivate1.cpp
+Derivate1.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/Derivate1.h
+iostream
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/iostream
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/Derivate1.h
+BaseClass.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/BaseClass.h
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/PrintFeature.cpp
+PrintFeature.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/PrintFeature.h
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/PrintFeature.h
+BaseClass.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/BaseClass.h
+
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/main.cpp
+iostream
+-
+Derivate1.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/Derivate1.h
+BaseClass.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/BaseClass.h
+PrintFeature.h
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/virtual function/PrintFeature.h
+
