@@ -1,0 +1,3 @@
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/shallow-deep-copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/shallow-deep-copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/shallow-deep-copy/cmake-build-debug/CMakeFiles/shallow_deep_copy.dir
