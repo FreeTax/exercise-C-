@@ -1,0 +1,3 @@
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E10_Observer_exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E10_Observer_exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E10_Observer_exercise/cmake-build-debug/CMakeFiles/E10_Observer_exercise.dir
