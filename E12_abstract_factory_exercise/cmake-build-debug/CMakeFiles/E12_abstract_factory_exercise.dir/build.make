@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise
+CMAKE_SOURCE_DIR = /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/E12_abstract_factory_exercise.dir/depend.make
@@ -59,94 +59,94 @@ include CMakeFiles/E12_abstract_factory_exercise.dir/flags.make
 
 CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.o: CMakeFiles/E12_abstract_factory_exercise.dir/flags.make
 CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.o -c /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.o -c /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/main.cpp
 
 CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/main.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/main.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.i
 
 CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/main.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/main.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/main.cpp.s
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.o: CMakeFiles/E12_abstract_factory_exercise.dir/flags.make
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.o: ../WindowsButton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.o -c /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsButton.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.o -c /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsButton.cpp
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsButton.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsButton.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.i
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsButton.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsButton.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsButton.cpp.s
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.o: CMakeFiles/E12_abstract_factory_exercise.dir/flags.make
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.o: ../WindowsWindow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.o -c /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsWindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.o -c /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsWindow.cpp
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsWindow.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsWindow.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.i
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsWindow.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsWindow.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsWindow.cpp.s
 
 CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.o: CMakeFiles/E12_abstract_factory_exercise.dir/flags.make
 CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.o: ../iOSButton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.o -c /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/iOSButton.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.o -c /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/iOSButton.cpp
 
 CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/iOSButton.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/iOSButton.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.i
 
 CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/iOSButton.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/iOSButton.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/iOSButton.cpp.s
 
 CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.o: CMakeFiles/E12_abstract_factory_exercise.dir/flags.make
 CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.o: ../iOSWindow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.o -c /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/iOSWindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.o -c /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/iOSWindow.cpp
 
 CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/iOSWindow.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/iOSWindow.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.i
 
 CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/iOSWindow.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/iOSWindow.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/iOSWindow.cpp.s
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.o: CMakeFiles/E12_abstract_factory_exercise.dir/flags.make
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.o: ../WindowsFactory.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.o -c /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.o -c /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsFactory.cpp
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsFactory.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsFactory.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.i
 
 CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/WindowsFactory.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/WindowsFactory.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/WindowsFactory.cpp.s
 
 CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.o: CMakeFiles/E12_abstract_factory_exercise.dir/flags.make
 CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.o: ../IOSFactory.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.o -c /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/IOSFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.o -c /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/IOSFactory.cpp
 
 CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/IOSFactory.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/IOSFactory.cpp > CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.i
 
 CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/IOSFactory.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/IOSFactory.cpp -o CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.s
 
 # Object files for target E12_abstract_factory_exercise
 E12_abstract_factory_exercise_OBJECTS = \
@@ -170,7 +170,7 @@ E12_abstract_factory_exercise: CMakeFiles/E12_abstract_factory_exercise.dir/Wind
 E12_abstract_factory_exercise: CMakeFiles/E12_abstract_factory_exercise.dir/IOSFactory.cpp.o
 E12_abstract_factory_exercise: CMakeFiles/E12_abstract_factory_exercise.dir/build.make
 E12_abstract_factory_exercise: CMakeFiles/E12_abstract_factory_exercise.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable E12_abstract_factory_exercise"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable E12_abstract_factory_exercise"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/E12_abstract_factory_exercise.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -183,6 +183,6 @@ CMakeFiles/E12_abstract_factory_exercise.dir/clean:
 .PHONY : CMakeFiles/E12_abstract_factory_exercise.dir/clean
 
 CMakeFiles/E12_abstract_factory_exercise.dir/depend:
-	cd /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles/E12_abstract_factory_exercise.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug /Users/francescomazzola/Desktop/exercise-C-/E12_abstract_factory_exercise/cmake-build-debug/CMakeFiles/E12_abstract_factory_exercise.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/E12_abstract_factory_exercise.dir/depend
 
