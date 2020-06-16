@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/francescomazzola/Desktop/exercise-C-/fs1/Matrix.h
+vector
+/Users/francescomazzola/Desktop/exercise-C-/fs1/vector
+memory
+-
+
+/Users/francescomazzola/Desktop/exercise-C-/fs1/main.cpp
+iostream
+-
+Matrix.h
+/Users/francescomazzola/Desktop/exercise-C-/fs1/Matrix.h
+
