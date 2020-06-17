@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/fs4.dir/main.cpp.o CMakeFiles/fs4.dir/File.cpp.o CMakeFiles/fs4.dir/Date.cpp.o  -o fs4 

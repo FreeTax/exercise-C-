@@ -1,0 +1,3 @@
+/Users/francescomazzola/Desktop/exercise-C-/fs5-objectadapter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/francescomazzola/Desktop/exercise-C-/fs5-objectadapter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/francescomazzola/Desktop/exercise-C-/fs5-objectadapter/cmake-build-debug/CMakeFiles/fs5_objectadapter.dir

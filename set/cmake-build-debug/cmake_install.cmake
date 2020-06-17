@@ -1,4 +1,4 @@
-# Install script for directory: /Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/set
+# Install script for directory: /Users/francescomazzola/Desktop/exercise-C-/set
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/francescomazzola/Desktop/programmazione/execise/exercise-C-/set/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/francescomazzola/Desktop/exercise-C-/set/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
