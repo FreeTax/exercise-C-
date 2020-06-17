@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/francescomazzola/Desktop/exercise-C-/fs6/Complex.cpp
+Complex.h
+/Users/francescomazzola/Desktop/exercise-C-/fs6/Complex.h
+
+/Users/francescomazzola/Desktop/exercise-C-/fs6/Complex.h
+
+/Users/francescomazzola/Desktop/exercise-C-/fs6/main.cpp
+iostream
+-
+Complex.h
+/Users/francescomazzola/Desktop/exercise-C-/fs6/Complex.h
+
