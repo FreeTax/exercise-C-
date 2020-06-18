@@ -1,0 +1,3 @@
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/cmake-build-debug/CMakeFiles/esame_mazzola.dir

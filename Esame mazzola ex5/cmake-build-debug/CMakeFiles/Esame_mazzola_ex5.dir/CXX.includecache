@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Document.cpp
+Document.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Document.h
+iostream
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/iostream
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Document.h
+iostream
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/iostream
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Image.cpp
+Image.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Image.h
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Image.h
+Document.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Document.h
+iostream
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/iostream
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Playlist.cpp
+Playlist.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Playlist.h
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Playlist.h
+iostream
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/iostream
+list
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/list
+Document.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Document.h
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Video.cpp
+Video.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Video.h
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Video.h
+Document.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Document.h
+
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/main.cpp
+iostream
+-
+Document.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Document.h
+Image.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Image.h
+Video.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Video.h
+Playlist.h
+/Users/francescomazzola/Desktop/exercise-C-/Esame mazzola ex5/Playlist.h
+

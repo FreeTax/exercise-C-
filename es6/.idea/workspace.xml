@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="es6" targetName="es6" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb988a32-ceb2-4995-85fb-c5772d3c69cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/.idea/Esame mazzola ex5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/Document.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/Document.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/Image.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/Image.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/Playlist.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/Playlist.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/Video.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Esame mazzola ex5/Video.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/.idea/esame mazzola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/DocumentElement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/DocumentElement.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/ImageElement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/ImageElement.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/LayoutElement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/LayoutElement.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/TextElement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esame mazzola/TextElement.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/.idea/dictionaries/francescomazzola.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/.idea/esercizio 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/Srvcamera.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/Srvcamera.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/Srvcontrol.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/Srvcontrol.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/VideoStream.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esercizio 6/VideoStream.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmazione risposte.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../programmazione risposte.pages" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dVZXJWYFFsiyHHMHakKXa1trlR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="es6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="es6" TARGET_NAME="es6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="es6" RUN_TARGET_NAME="es6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb988a32-ceb2-4995-85fb-c5772d3c69cd" name="Default Changelist" comment="" />
+      <created>1592512258766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592512258766</updated>
+      <workItem from="1592512260433" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

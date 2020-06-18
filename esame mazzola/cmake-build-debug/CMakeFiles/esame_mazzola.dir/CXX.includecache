@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/DocumentElement.h
+
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/ImageElement.h
+DocumentElement.h
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/DocumentElement.h
+
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/LayoutElement.h
+DocumentElement.h
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/DocumentElement.h
+iostream
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/iostream
+list
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/list
+
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/TextElement.h
+DocumentElement.h
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/DocumentElement.h
+iostream
+-
+
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/main.cpp
+iostream
+-
+list
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/list
+ImageElement.h
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/ImageElement.h
+TextElement.h
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/TextElement.h
+LayoutElement.h
+/Users/francescomazzola/Desktop/exercise-C-/esame mazzola/LayoutElement.h
+

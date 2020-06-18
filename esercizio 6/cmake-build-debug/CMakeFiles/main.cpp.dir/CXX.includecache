@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.cpp
+Srvcam.h
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.h
+
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.h
+Srvcontrol.h
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.h
+iostream
+-
+list
+-
+
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.cpp
+Srvcontrol.h
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.h
+
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.h
+Srvcam.h
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.h
+iostream
+-
+list
+-
+VideoStream.h
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.h
+
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.cpp
+VideoStream.h
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.h
+
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.h
+iostream
+-
+
