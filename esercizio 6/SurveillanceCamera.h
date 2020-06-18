@@ -2,17 +2,17 @@
 // Created by Francesco Mazzola on 18/06/2020.
 //
 
-#ifndef ESERCIZIO_6_SRVCAM_H
-#define ESERCIZIO_6_SRVCAM_H
+#ifndef ESERCIZIO_6_SURVEILLANCECAMERA_H
+#define ESERCIZIO_6_SURVEILLANCECAMERA_H
 
 
 #include "Subject.h"
 #include <list>
 
 
-class Srvcam : public Subject{
+class SurveillanceCamera : public Subject {
 public:
-    Srvcam(std::string n, std:: string r);
+    SurveillanceCamera(std::string n, std::string r);
 
     void unsubscribe(Observer *c) override;
 
@@ -22,7 +22,7 @@ public:
 
     void notify(VideoStream *v) override;
 
-    ~Srvcam();
+    ~SurveillanceCamera();
 
 private:
     std::string name;
@@ -31,4 +31,4 @@ private:
 };
 
 
-#endif //ESERCIZIO_6_SRVCAM_H
+#endif //ESERCIZIO_6_SURVEILLANCECAMERA_H

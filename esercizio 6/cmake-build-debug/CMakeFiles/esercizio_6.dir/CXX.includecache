@@ -9,28 +9,6 @@
 /Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Observer.h
 VideoStream.h
 /Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.h
-Subject.h
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Subject.h
-
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.cpp
-Srvcam.h
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.h
-
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.h
-Subject.h
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Subject.h
-list
--
-
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.cpp
-Srvcontrol.h
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.h
-
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.h
-Observer.h
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Observer.h
-list
--
 
 /Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Subject.h
 Observer.h
@@ -38,13 +16,17 @@ Observer.h
 VideoStream.h
 /Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.h
 
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.cpp
+SurveillanceControl.h
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.h
+
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.h
+Subject.h
+/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Subject.h
+list
+-
+
 /Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.h
 iostream
 -
-
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/main.cpp
-Srvcam.h
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.h
-Srvcontrol.h
-/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.h
 

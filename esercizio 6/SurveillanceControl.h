@@ -2,22 +2,23 @@
 // Created by Francesco Mazzola on 18/06/2020.
 //
 
-#ifndef ESERCIZIO_6_SRVCONTROL_H
-#define ESERCIZIO_6_SRVCONTROL_H
+#ifndef ESERCIZIO_6_SURVEILLANCECONTROL_H
+#define ESERCIZIO_6_SURVEILLANCECONTROL_H
 
-#include "Observer.h"
+#include "Subject.h"
 #include <list>
 
 
-
-class Srvcontrol : public Observer {
+class SurveillanceControl : public Observer {
 public:
-    Srvcontrol(int i, Subject *pCamera);
+    SurveillanceControl(int i, Subject *pCamera);
 
     void update(VideoStream *v);
 
     void play();
+
     void addCamera(Subject *pCamera);
+
     void removeCamera(Subject *pCamera);
 
     void atach();
@@ -27,9 +28,10 @@ public:
 private:
     std::list<VideoStream *> element;
     int maxnumber;
+    Subject *s;
 
 
 };
 
 
-#endif //ESERCIZIO_6_SRVCONTROL_H
+#endif //ESERCIZIO_6_SURVEILLANCECONTROL_H

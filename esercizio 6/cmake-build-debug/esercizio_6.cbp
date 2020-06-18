@@ -85,19 +85,19 @@
 		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Observer.h">
 			<Option target="esercizio_6"/>
 		</Unit>
-		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.cpp">
-			<Option target="esercizio_6"/>
-		</Unit>
-		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.h">
-			<Option target="esercizio_6"/>
-		</Unit>
-		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.cpp">
-			<Option target="esercizio_6"/>
-		</Unit>
-		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.h">
-			<Option target="esercizio_6"/>
-		</Unit>
 		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Subject.h">
+			<Option target="esercizio_6"/>
+		</Unit>
+		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceCamera.cpp">
+			<Option target="esercizio_6"/>
+		</Unit>
+		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceCamera.h">
+			<Option target="esercizio_6"/>
+		</Unit>
+		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.cpp">
+			<Option target="esercizio_6"/>
+		</Unit>
+		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.h">
 			<Option target="esercizio_6"/>
 		</Unit>
 		<Unit filename="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.cpp">

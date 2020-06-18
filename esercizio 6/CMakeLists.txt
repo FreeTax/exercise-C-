@@ -8,9 +8,9 @@ include_directories(.)
 add_executable(esercizio_6
         main.cpp
 
-        Srvcam.h
-        Srvcam.cpp
-        Srvcontrol.h
-        Srvcontrol.cpp
+        SurveillanceCamera.h
+        SurveillanceCamera.cpp
+        SurveillanceControl.h
+        SurveillanceControl.cpp
         VideoStream.h
         VideoStream.cpp Observer.h Subject.h)

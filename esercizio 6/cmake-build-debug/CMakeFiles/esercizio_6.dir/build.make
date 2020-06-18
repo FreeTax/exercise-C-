@@ -70,31 +70,31 @@ CMakeFiles/esercizio_6.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/esercizio_6.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/main.cpp" -o CMakeFiles/esercizio_6.dir/main.cpp.s
 
-CMakeFiles/esercizio_6.dir/Srvcam.cpp.o: CMakeFiles/esercizio_6.dir/flags.make
-CMakeFiles/esercizio_6.dir/Srvcam.cpp.o: ../Srvcam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/esercizio_6.dir/Srvcam.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/esercizio_6.dir/Srvcam.cpp.o -c "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.cpp"
+CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.o: CMakeFiles/esercizio_6.dir/flags.make
+CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.o: ../SurveillanceCamera.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.o -c "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceCamera.cpp"
 
-CMakeFiles/esercizio_6.dir/Srvcam.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/esercizio_6.dir/Srvcam.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.cpp" > CMakeFiles/esercizio_6.dir/Srvcam.cpp.i
+CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceCamera.cpp" > CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.i
 
-CMakeFiles/esercizio_6.dir/Srvcam.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/esercizio_6.dir/Srvcam.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.cpp" -o CMakeFiles/esercizio_6.dir/Srvcam.cpp.s
+CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceCamera.cpp" -o CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.s
 
-CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.o: CMakeFiles/esercizio_6.dir/flags.make
-CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.o: ../Srvcontrol.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.o -c "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.cpp"
+CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.o: CMakeFiles/esercizio_6.dir/flags.make
+CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.o: ../SurveillanceControl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.o -c "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.cpp"
 
-CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.cpp" > CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.i
+CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.cpp" > CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.i
 
-CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.cpp" -o CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.s
+CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.cpp" -o CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.s
 
 CMakeFiles/esercizio_6.dir/VideoStream.cpp.o: CMakeFiles/esercizio_6.dir/flags.make
 CMakeFiles/esercizio_6.dir/VideoStream.cpp.o: ../VideoStream.cpp
@@ -112,16 +112,16 @@ CMakeFiles/esercizio_6.dir/VideoStream.cpp.s: cmake_force
 # Object files for target esercizio_6
 esercizio_6_OBJECTS = \
 "CMakeFiles/esercizio_6.dir/main.cpp.o" \
-"CMakeFiles/esercizio_6.dir/Srvcam.cpp.o" \
-"CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.o" \
+"CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.o" \
+"CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.o" \
 "CMakeFiles/esercizio_6.dir/VideoStream.cpp.o"
 
 # External object files for target esercizio_6
 esercizio_6_EXTERNAL_OBJECTS =
 
 esercizio_6: CMakeFiles/esercizio_6.dir/main.cpp.o
-esercizio_6: CMakeFiles/esercizio_6.dir/Srvcam.cpp.o
-esercizio_6: CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.o
+esercizio_6: CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.o
+esercizio_6: CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.o
 esercizio_6: CMakeFiles/esercizio_6.dir/VideoStream.cpp.o
 esercizio_6: CMakeFiles/esercizio_6.dir/build.make
 esercizio_6: CMakeFiles/esercizio_6.dir/link.txt

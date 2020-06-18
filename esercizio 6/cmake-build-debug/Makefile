@@ -123,59 +123,59 @@ esercizio_6/fast:
 	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/build
 .PHONY : esercizio_6/fast
 
-Srvcam.o: Srvcam.cpp.o
+SurveillanceCamera.o: SurveillanceCamera.cpp.o
 
-.PHONY : Srvcam.o
-
-# target to build an object file
-Srvcam.cpp.o:
-	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/Srvcam.cpp.o
-.PHONY : Srvcam.cpp.o
-
-Srvcam.i: Srvcam.cpp.i
-
-.PHONY : Srvcam.i
-
-# target to preprocess a source file
-Srvcam.cpp.i:
-	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/Srvcam.cpp.i
-.PHONY : Srvcam.cpp.i
-
-Srvcam.s: Srvcam.cpp.s
-
-.PHONY : Srvcam.s
-
-# target to generate assembly for a file
-Srvcam.cpp.s:
-	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/Srvcam.cpp.s
-.PHONY : Srvcam.cpp.s
-
-Srvcontrol.o: Srvcontrol.cpp.o
-
-.PHONY : Srvcontrol.o
+.PHONY : SurveillanceCamera.o
 
 # target to build an object file
-Srvcontrol.cpp.o:
-	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.o
-.PHONY : Srvcontrol.cpp.o
+SurveillanceCamera.cpp.o:
+	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.o
+.PHONY : SurveillanceCamera.cpp.o
 
-Srvcontrol.i: Srvcontrol.cpp.i
+SurveillanceCamera.i: SurveillanceCamera.cpp.i
 
-.PHONY : Srvcontrol.i
+.PHONY : SurveillanceCamera.i
 
 # target to preprocess a source file
-Srvcontrol.cpp.i:
-	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.i
-.PHONY : Srvcontrol.cpp.i
+SurveillanceCamera.cpp.i:
+	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.i
+.PHONY : SurveillanceCamera.cpp.i
 
-Srvcontrol.s: Srvcontrol.cpp.s
+SurveillanceCamera.s: SurveillanceCamera.cpp.s
 
-.PHONY : Srvcontrol.s
+.PHONY : SurveillanceCamera.s
 
 # target to generate assembly for a file
-Srvcontrol.cpp.s:
-	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.s
-.PHONY : Srvcontrol.cpp.s
+SurveillanceCamera.cpp.s:
+	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.s
+.PHONY : SurveillanceCamera.cpp.s
+
+SurveillanceControl.o: SurveillanceControl.cpp.o
+
+.PHONY : SurveillanceControl.o
+
+# target to build an object file
+SurveillanceControl.cpp.o:
+	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.o
+.PHONY : SurveillanceControl.cpp.o
+
+SurveillanceControl.i: SurveillanceControl.cpp.i
+
+.PHONY : SurveillanceControl.i
+
+# target to preprocess a source file
+SurveillanceControl.cpp.i:
+	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.i
+.PHONY : SurveillanceControl.cpp.i
+
+SurveillanceControl.s: SurveillanceControl.cpp.s
+
+.PHONY : SurveillanceControl.s
+
+# target to generate assembly for a file
+SurveillanceControl.cpp.s:
+	$(MAKE) -f CMakeFiles/esercizio_6.dir/build.make CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.s
+.PHONY : SurveillanceControl.cpp.s
 
 VideoStream.o: VideoStream.cpp.o
 
@@ -240,12 +240,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... esercizio_6"
-	@echo "... Srvcam.o"
-	@echo "... Srvcam.i"
-	@echo "... Srvcam.s"
-	@echo "... Srvcontrol.o"
-	@echo "... Srvcontrol.i"
-	@echo "... Srvcontrol.s"
+	@echo "... SurveillanceCamera.o"
+	@echo "... SurveillanceCamera.i"
+	@echo "... SurveillanceCamera.s"
+	@echo "... SurveillanceControl.o"
+	@echo "... SurveillanceControl.i"
+	@echo "... SurveillanceControl.s"
 	@echo "... VideoStream.o"
 	@echo "... VideoStream.i"
 	@echo "... VideoStream.s"

@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcam.cpp" "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles/esercizio_6.dir/Srvcam.cpp.o"
-  "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/Srvcontrol.cpp" "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles/esercizio_6.dir/Srvcontrol.cpp.o"
+  "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceCamera.cpp" "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles/esercizio_6.dir/SurveillanceCamera.cpp.o"
+  "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/SurveillanceControl.cpp" "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles/esercizio_6.dir/SurveillanceControl.cpp.o"
   "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/VideoStream.cpp" "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles/esercizio_6.dir/VideoStream.cpp.o"
   "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/main.cpp" "/Users/francescomazzola/Desktop/exercise-C-/esercizio 6/cmake-build-debug/CMakeFiles/esercizio_6.dir/main.cpp.o"
   )
